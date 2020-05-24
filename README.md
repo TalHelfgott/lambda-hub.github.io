@@ -1,2 +1,2 @@
-# lambda-hub.github.io
+# Lambda Hub
  
